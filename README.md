@@ -28,4 +28,4 @@ const string apiKey = "131408798asdsa131408798";
 
 #### Example project running:
 
-![](prints\running.gif)
+![](prints/running.gif)
